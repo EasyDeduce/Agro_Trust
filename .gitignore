@@ -1,0 +1,39 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+backend/.env
+frontend/.env
+
+# Hardhat
+artifacts/
+cache/
+typechain/
+coverage/
+coverage.json
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Build outputs (frontend)
+frontend/build/
+
+# Local data
+*.local
+*.tmp
+
+
